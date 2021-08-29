@@ -1,0 +1,288 @@
+part,definition,root,plural,class,pl_class
+adj,short,fupi,,,
+adj,big,kulu,,,
+adj,small,ng’ono,,,
+adj,long,tali,,,
+adv,ago,-apita,,,
+adv,"ever, never",-po,,,
+adv,only,basi,,,
+adv,the same,chimodzimodzi,,,
+adv,-kubwera,coming,,,
+adv,already,kale,,,
+adv,often,kawiri kawiri,,,
+adv,extremely,koopsya,,,
+adv,behind,ku mbuyo,,,
+adv,in front,ku tsogolo,,,
+adv,from,kuchokera,,,
+adv,west,kumadzulo,,,
+adv,there,kumeneko,,,
+adv,east,kummawa,,,
+adv,north,kumpoto,,,
+adv,uphill,kumtunda,,,
+adv,downhill,kumunsi,,,
+adv,south,kumwera,,,
+adv,outside,kunja,,,
+adv,far,kutali,,,
+adv,right,manja,,,
+adv,left,manzere,,,
+adv,unfortunately,matsoka,,,
+adv,inside,mkati,,,
+adv,late,mochedwa,,,
+adv,"early, quick",mofulumira,,,
+adv,such,monga,,,
+adv,maybe,mwina,,,
+adv,near,pafupi,,,
+adv,down,pansi,,,
+adv,soon,posachedwa,,,
+adv,future,tsogolo,,,
+conj,kenaka,and then,,,
+conj,so,choncho,,,
+conj,more than,kuposa,,,
+conj,although,ngakhale,,,
+conj,since,popeza,,,
+n,neighbour,aneyba,,1,2
+n,friend,anza,anza,1,2
+n,father,bambo,abambo,1,2
+n,dog,galu,agalu,1,2
+n,grandfather,gogo,agogo,1,2
+n,sister,mchemwali,achemwali,1,2
+n,brother,mchimwene,achimwene,1,2
+n,wife,mkazi,akazi,1,2
+n,mother,mmayi,amayi,1,2
+n,husband,mmuna,amuna,1,2
+n,boy,mnyamata,anyamata,1,2
+n,cat,mphaka,aphaka,1,2
+n,market,msika,misika,1,2
+n,girl,mtsikana,atsikana,1,2
+n,child,mwana,ana,1,2
+n,nurse,namwino,amwino,1,2
+n,minister,nduna,aduna,1,2
+n,gentleman,nzibambo,azibambo,1,2
+n,lady,nzimayi,azimayi,1,2
+n,milk,mkaka,mikaka,3,4
+n,bridge,mlatho,milatho,3,4
+n,lip,mlomo,milomo,3,4
+n,chair,mpando,mipando,3,4
+n,knife,mpeni,mipeni,3,4
+n,clay pot,mphika,miphika,3,4
+n,road,msewu,misewu,3,4
+n,market,msika,misika,3,4
+n,clouds,mtambo,mitambo,3,4
+n,tree,mtengo,mitengo,3,4
+n,river,mtsinje,mitsinje,3,4
+n,village,mudzi,midzi,3,4
+n,garden,munda,minda,3,4
+n,head,mutu,mitu,3,4
+n,leg,mwendo,miyendo,3,4
+n,reach,mzere,mizere,3,4
+n,government,boma,maboma,5,6
+n,bottle,botolo,mabotolo,5,6
+n,book,bukhu,mabukhu,5,6
+n,spring,damu,madamu,5,6
+n,swimming pool,damu losambira,,5,6
+n,eye,diso,maso,5,6
+n,flower,duwa,maluwa,5,6
+n,world,dziko,maiko,5,6
+n,question,funso,mafunso,5,6
+n,luggage,katundu,makatundu,5,6
+n,word,liwu,mawu,5,6
+n,avocado,peyala,mapeyala,5,6
+n,mountain,phiri,mapiri,5,6
+n,holiday,tchuti,matchuti,5,6
+n,pumpkin,ungu,maungu,5,6
+n,garlic,adyo,maadyo,9,6
+n,onion,anyezi,maanyezi,9,6
+n,bed,bedi,mabedi,9,6
+n,boat,bwato,mabwato,9,6
+n,tankshirt,gwanda,magwanda,9,6
+n,letter,kalata,makalata,9,6
+n,office,ofesi,maofesi,9,6
+n,hour,ola,maola,9,6
+n,shirt,shati,mashati,9,6
+n,tomato,tomato,tomato,9,6
+n,pepper,tsabola,matsabola,9,6
+n,window,windo,mawindo,9,6
+n,glasses,magalasi,,,6
+n,parents,makolo (pl),,,6
+n,place,malo,,,6
+n,malaria,malungo,,,6
+n,medicine,mankhwala,,,6
+n,vegetables,masamba,,,6
+n,"vegetables, leaves",masamba,,,6
+n,trousers,matarawza,,,6
+n,food,chakudya,zakudya,7,8
+n,boyfriend/girlfiend,chibwenzi,zibwenzi,7,8
+n,bag,chikwama,zikwama,7,8
+n,signpost,chikwangwani,zikwangwani,7,8
+n,beast,chilombo,zilombo,7,8
+n,toilet,chimbuzi,zimbuzi,7,8
+n,language,chinenero,zinenero,7,8
+n,rope,chingwe,zingwe,7,8
+n,thing,chinthu,zinthu,7,8
+n,fruit,chipatso,zipatso,7,8
+n,room,chipinda,zipinda,7,8
+n,parlour,chipinda chocheza,,7,8
+n,bedroom,chipinda chogona,,7,8
+n,living room,chipinda chokhala,,7,8
+n,kitchen,chipinda chophika,,7,8
+n,washroom,chipinda chosamba,,7,8
+n,island,chisumbu,zisumbu,7,8
+n,chitenje,chitenje,zitenje,7,8
+n,door,chitseko,zitseko,7,8
+n,clothes,zovala (pl),,7,8
+n,bird,mbalame,mbalame,9,10
+n,airplane,ndege,ndege,9,10
+n,debt,ngongole,ngongole,9,10
+n,bicycle,njinga,njinga,9,10
+n,chicken,nkhuku,nkhuku,9,10
+n,turkey,nkhukutembo,nkhukutembo,9,10
+n,shoes,nsapatu,nsapatu,9,10
+n,giraffe,nswala,nswala,9,10
+n,beans,nyemba,nyemba,9,10
+n,weather,nyengo,nyengo,9,10
+n,"music, songs",nyimbo,nyimbo,9,10
+n,shyness,manyazi,,1,
+n,rudeness,mwano,,1,
+n,beer,mowa,,3,
+n,responsibility,udindo,,14,
+n,wedding,ukwati,,14,
+n,respect,ulemu,,14,
+n,trip,ulendo,,14,
+n,laziness,ulesi,,14,
+n,health,umoyo,,14,
+n,ministry,unduna,,14,
+n,daylight,usana,,14,
+n,night,usiku,,14,
+nadj,old,kale,,,
+nadj,old (obj),kale,,,
+nadj,sad,khumudwa,,,
+nadj,black,kuda,,,
+nadj,new,nyuwani,,,
+nadj,same,yemweyo,,,
+nadj,fresh,ziwisi,,,
+prep,for,kwa,,,
+prep,instead of,m'malo mwa,,,
+prep,until,mpaka,,,
+prep,without,opanda,,,
+v,new,-anyuwani,,,
+v,be born,badwa,,,
+v,only,basi,,,
+v,be found,bezeka,,,
+v,return,bwerako,,,
+v,pay back,bweza,,,
+v,dawn,cha,,,
+v,wash (clothes),chapa (clothes),,,
+v,chat,cheza,,,
+v,because,chifukwa,,,
+v,do,chita,,,
+v,go away,choka,,,
+v,subtract,chotsera,,,
+v,grow,cultiv lima,,,
+v,worry,dandaula,,,
+v,wait,dikira,,,
+v,cut,dula,,,
+v,pass by,dutsa,,,
+v,be sick,dwala (pf),,,
+v,explain,fotokoza,,,
+v,ask,funsa,,,
+v,think,ganiza,,,
+v,share,gawira,,,
+v,fall,gwa,,,
+v,catch,gwira,,,
+v,put,ika,,,
+v,stop,ima,,,
+v,sing,imba,,,
+v,call,imba foni,,,
+v,call (so.),imbira foni,,,
+v,invite,itana,,,
+v,order,itanitsa,,,
+v,forget,iwala,,,
+v,discuss,kambirana,,,
+v,turn,khota,,,
+v,turn to,khotera,,,
+v,"hope, believe",khulupirira,,,
+v,be full,khuta (pastpf),,,
+v,harvest,kolola,,,
+v,taste good,koma,,,
+v,"clean, fix",konza,,,
+v,grow (intr),kula,,,
+v,meet,kumana ndi,,,
+v,remember,kumbukira,,,
+v,marry (f),kwatiwa,,,
+v,"climb, ride",kwera,,,
+v,advise,langiza,,,
+v,work hard,limbikira,,,
+v,cry,lira,,,
+v,allow,lola,,,
+v,be allowed,loledwa,,,
+v,pack (luggage),longeza,,,
+v,"enter, set (sun)",lowa,,,
+v,finish,maliza,,,
+v,"hear, feel, understand",mva,,,
+v,understand,mvetsa,,,
+v,listen to,mvetsera,,,
+v,listen,mvetsera,,,
+v,thirsty,ndi ludzu,,,
+v,hungry,ndi njala,,,
+v,say,nena,,,
+v,leave,nyamuka,,,
+v,city,nzinda,,,
+v,cross,oloka,,,
+v,watch,onera,,,
+v,stretch,ongola,,,
+v,add,onjeza,,,
+v,break down,onongeka,,,
+v,kill,pa,,,
+v,make,panga,,,
+v,seldom,patali patali,,,
+v,give,patsa,,,
+v,give (dir),pereka (kwa),,,
+v,find,peza,,,
+v,go on,pitirira,,,
+v,continue,pitiriza,,,
+v,rest,puma,,,
+v,hurt,pweteka,,,
+v,"wash (self), bathe",samba (self),,,
+v,swim,sambira,,,
+v,change,sintha,,,
+v,miss,sowa,,,
+v,smoke,suta,,,
+v,lose,taya,,,
+v,land,tera (v),,,
+v,be finished,tha,,,
+v,run,thamanga,,,
+v,be used,thandiza,,,
+v,work (out),theka,,,
+v,tired,topa (v) pastpf,,,
+v,say goodbye,tsanzika,,,
+v,open,tsegula,,,
+v,wash (dishes),tsuka (dishes),,,
+v,"go out, rise (sun)",tuluka,,,
+v,tell,uza,,,
+v,tell,uza,,,
+v,dance,vina,,,
+v,hurt,wawa,,,
+v,read,werenga,,,
+v,count,werenga,,,
+v,knock off,weruka,,,
+v,look for,yang'ana,,,
+v,walk,yenda,,,
+v,drive,yendetsa,,,
+v,have to,yenera,,,
+v,try,yesa,,,
+v,be used to,zolowera,,,
+vadj,clever,chenjela,,,
+vadj,slim,chepa thupi,,,
+vadj,cheap,chipa,,,
+vadj,expensive,dula,,,
+vadj,similar,fanana,,,
+vadj,red,fiila,,,
+vadj,faithful,khulupirika,,,
+vadj,angry,kwiya,,,
+vadj,rich,lemera,,,
+vadj,same,mwewu,,,
+vadj,fat,nenepa,,,
+vadj,dangerous,opsya (v),,,
+vadj,first,yamba,,,
+vadj,white,yela,,,
+vadj,impossible,zosateka,,,

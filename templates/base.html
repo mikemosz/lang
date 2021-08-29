@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<title>Chichewa Quiz</title>
+		
+		<link rel="stylesheet" href="{{ url_for('static', filename='bootstrap/css/bootstrap.min.css') }}" />
+		<link rel="stylesheet" href="{{ url_for('static', filename='css/lang.css') }}" />
+
+		<script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+		<script src="{{ url_for('static', filename='js/lang.js') }}"></script>
+		<script src="{{ url_for('static', filename='bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+	</head>
+	<body>
+		<header class="bd-header bg-dark py-3 d-flex align-items-stretch border-bottom border-dark">
+		  <div class="container-fluid d-flex align-items-center">
+		    <h1 class="d-flex align-items-center fs-4 text-white mb-0">
+		      Chichewa Quiz
+		    </h1>
+		  </div>
+		</header>
+	  <main class="container">
+	  	{% block content %}{% endblock %}
+	  </main>
+		<script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+	</body>
+</html>

@@ -1,0 +1,23 @@
+body {
+	font-family: "Franklin Gothic", "Libre Franklin", Helvetica, Droid Sans, sans-serif;
+}
+
+.quiz > div {
+	height: 45%;
+	border: 1px solid black;
+	text-align: center;
+	vertical-align: middle;
+	padding: 10% 0;
+	font-size: 4rem;
+}
+
+.quiz .answer-btn {
+	font-size: inherit;
+	padding-left: 2rem;
+	padding-right: 2rem;
+}
+
+.quiz .answer-text {
+	display: none;
+	font-size: inherit;
+}

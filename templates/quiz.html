@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<div class="quiz">
+	<div class="prompt">
+		<span class="prompt-text">{{ prompt }}</span>
+	</div>
+	<div class="answer">
+		<a class="btn btn-secondary answer-btn">Reveal</a>
+		<span class="btn answer-text">{{ answer }}</span>
+	</div>
+</div>
+
+{% endblock %}
