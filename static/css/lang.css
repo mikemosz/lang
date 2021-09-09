@@ -28,3 +28,11 @@ body {
 	display: none;
 	font-size: inherit;
 }
+
+.quiz .revealed .answer-btn {
+	display: none;
+}
+
+.quiz .revealed .answer-text {
+	display: inline;
+}
