@@ -2,7 +2,7 @@ $(document).ready(function() {
 	$('.answer-btn').click(function(e) {
 		e.preventDefault();
 
-		$(this).closest('.answer').toggleClass('revealed');
+		$(this).closest('.answer').addClass('revealed');
 	});
 
 	$('.answer-text').click(function(e) {
@@ -12,7 +12,7 @@ $(document).ready(function() {
 		$.get('/?json=1', function(data) {
 			$('.prompt-text').text(data['prompt']);
 			$('.answer-text').text(data['answer']);
-			$(this).closest('.answer').toggleClass('revealed');
+			$('.answer').removeClass('revealed');
 		}, 'json');
 	});
 });
