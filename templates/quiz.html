@@ -8,7 +8,7 @@
 			<span class="prompt-text">{{ prompt }}</span>
 		</div>
 	</div>
-	<div class="answer revealed">
+	<div class="answer {% if revealed %}revealed{% endif %}">
 		<div>
 			<a class="btn btn-secondary answer-btn">Reveal</a>
 			<span class="btn answer-text">{{ answer }}</span>
